@@ -17,8 +17,11 @@ Setup:
 
 <p float='left'>
    <img src='https://i.imgur.com/4gnQOhI.png' alt='covid pwa'/> 
+----
    <img src='https://i.imgur.com/tA7Fmdv.png' alt='line chart'/> 
+----
    <img src='https://i.imgur.com/BoPNTn6.png' alt='bar chart'/>
+----   
    <img src='https://i.imgur.com/B4n9vAn.png' alt='offline version'/>
 </p>
 
