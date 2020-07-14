@@ -4,6 +4,8 @@
 
 ### [Live Demo](https://tender-noyce-3fd95a.netlify.app/)
 
+[![Run on Repl.it](https://repl.it/badge/github/ch374n/COVID-tracker-PWA)](https://repl.it/github/ch374n/COVID-tracker-PWA)
+
 ## Introduction
 
 Progressive Web App made in React.js and Evergreen-UI to display COVID-19 statistics 
@@ -24,6 +26,7 @@ Setup:
 <hr/>
    <img src='https://i.imgur.com/B4n9vAn.png' alt='offline version'/>
 </p>
+
 
 # License
 
