@@ -7,7 +7,7 @@
     "build": "react-scripts build"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "evergreen-ui": "^4.27.4",
     "react": "^16.13.1",
